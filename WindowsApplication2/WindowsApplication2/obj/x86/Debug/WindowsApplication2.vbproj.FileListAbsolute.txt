@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Zabbix Reporting.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Zabbix Reporting.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Zabbix Reporting.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Zabbix Reporting.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Zabbix Reporting.xml
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Zabbix Reporting.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Zabbix Reporting.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Zabbix Reporting.application
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Zabbix Reporting.exe.manifest
+C:\Users\admin\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Zabbix Reporting.application
